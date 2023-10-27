@@ -1,0 +1,20 @@
+[2023-10-26 22:27:31] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:27:45] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:29:57] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:33:34] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:35:18] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:37:21] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:38:57] [ ERROR] [OdontologoDaoH2:86] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2023-10-26 22:38:57] [ ERROR] [OdontologoDaoH2:93] Ha ocurrido un error al intentar cerrar la bdd. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-10-26 22:39:48] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:40:10] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:42:10] [ INFO ] [OdontologoDaoH2:82] Listado de todos los odontologos: [Odontologo{id=0, numeroMatricula=1, nombre='JOSE', apellido='ZAMORA'}, Odontologo{id=0, numeroMatricula=2, nombre='ANMARY', apellido='PEREIRA'}]
